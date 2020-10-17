@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/B_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_1" />
+
+    <Button
+        android:id="@+id/B_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_2" />
+
+    <Button
+        android:id="@+id/B_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_3" />
+
+    <Button
+        android:id="@+id/B_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_4" />
+
+    <Button
+        android:id="@+id/B_5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_5" />
+
+    <Button
+        android:id="@+id/B_6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_6" />
+
+    <Button
+        android:id="@+id/B_7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_7" />
+
+    <Button
+        android:id="@+id/B_8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_8" />
+
+    <Button
+        android:id="@+id/B_9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:background="@color/colorAccent"
+        android:text="@string/B_9" />
+
+</LinearLayout>

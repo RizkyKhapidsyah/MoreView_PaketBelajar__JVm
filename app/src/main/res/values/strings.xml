@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MoreView_PaketBelajar__JVm</string>
+    <string name="B_1">Date Picker</string>
+    <string name="B_2">Date Picker 2</string>
+    <string name="B_3">Gallery View</string>
+    <string name="B_4">Gallery View 2</string>
+    <string name="B_5">Image Switcher</string>
+    <string name="B_6">Menu Layout</string>
+    <string name="hello_tampilan_menu">Hello, Tampilan Menu!</string>
+    <string name="B_7">Spinner View</string>
+    <string name="B_8">Time Picker</string>
+    <string name="B_9">timePicker2</string>
+</resources>
