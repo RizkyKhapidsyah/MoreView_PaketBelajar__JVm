@@ -38,13 +38,11 @@ public class spinnerView extends AppCompatActivity {
 
         s1 = (Spinner) findViewById(R.id.spinner1);
 
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this,
-                android.R.layout.simple_spinner_item, club);
+        ArrayAdapter<String> adapter = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item, club);
 
         s1.setAdapter(adapter);
         s1.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            public void onItemSelected(AdapterView<?> arg0,
-                                       View arg1, int arg2, long arg3) {
+            public void onItemSelected(AdapterView<?> arg0, View arg1, int arg2, long arg3) {
                 int index = s1.getSelectedItemPosition();
                 Toast.makeText(getBaseContext(), "You have selected item : " + club[index], Toast.LENGTH_SHORT).show();
             }
